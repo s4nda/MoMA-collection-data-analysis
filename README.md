@@ -2,9 +2,7 @@
 
 This project involves analyzing the artists and artworks represented in the collection of the Museum of Modern Art (MoMA).
 
-## notebook
-
-`https://github.com/s4nda/MoMa-collection-data-analysis/blob/main/notebooks/artists-1.ipynb`
+[notebook](https://github.com/s4nda/MoMa-collection-data-analysis/blob/main/notebooks/artists-1.ipynb)
 
 ## Analysis
 
