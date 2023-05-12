@@ -1,8 +1,8 @@
 # MoMA Collection Data Analysis
 
-This project involves analyzing the artists and artworks represented in the collection of the Museum of Modern Art (MoMA).
+Analyzing the artists and artworks represented in the collection of the Museum of Modern Art (MoMA).
 
-- [analysis and charts](https://github.com/s4nda/MoMa-collection-data-analysis/blob/main/notebooks/artists-1.ipynb)
+- [analysis and charts](https://github.com/s4nda/MoMA-collection-data-analysis/blob/main/notebooks/artists-1.ipynb)
 
 ## Analysis
 
@@ -25,3 +25,5 @@ This project involves analyzing the artists and artworks represented in the coll
 
 ### Artworks & Nationality: 
 - While the majority of artists in MoMA's collection are American, the majority of artworks in the collection are actually created by artists of other nationalities, with American artists contributing 44.6% of the artworks and artists of other nationalities contributing 55.4%. 
+
+
